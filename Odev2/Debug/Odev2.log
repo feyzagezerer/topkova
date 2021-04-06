@@ -1,0 +1,15 @@
+﻿  dosyaoku.cpp
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dosyaoku.cpp(10,3): error C2355:  'this': yalnızca statik olmayan üye işlevlerin veya statik olmayan veri üyesi başlatıcılarının içinde başvurulabilir
+  dugum.cpp
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dosyaoku.cpp(13,22): error C2065:  'path': bildirimi yapılmamış tanımlayıcı
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(10,3): error C2355:  'this': yalnızca statik olmayan üye işlevlerin veya statik olmayan veri üyesi başlatıcılarının içinde başvurulabilir
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(11,3): error C2355:  'this': yalnızca statik olmayan üye işlevlerin veya statik olmayan veri üyesi başlatıcılarının içinde başvurulabilir
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(12,3): error C2355:  'this': yalnızca statik olmayan üye işlevlerin veya statik olmayan veri üyesi başlatıcılarının içinde başvurulabilir
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(14,8): error C2588:  '::~Dugum': geçersiz genel öğe yok edici
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(14,11): error C4430:  tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ikiyonlubagilliste.cpp
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\dugum.cpp(16,2): warning C4508:  'Dugum': işlev bir değer döndürmelidir; 'void' dönüş türü varsayıldı
+  Odev2.cpp
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\ikiyonlubagilliste.cpp(4,10): error C1083:  içerme dosyası açılamıyor: 'IkiYonluBagilListe.hpp': No such file or directory
+  Kod Üretiliyor...
+C:\Users\feyza\Desktop\SAU\5.1\VeriYapıları\Odev2 visual\Odev2\Odev2\Odev2.cpp(7,10): error C1083:  içerme dosyası açılamıyor: 'IkiYonluBagilListe.hpp': No such file or directory
